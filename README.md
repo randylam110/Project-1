@@ -6,8 +6,11 @@
 Members:
 
 Randy Lam
+
 Zach Wood
+
 Marti Reisinger
+
 Bryan Groves
 
 ## Topic:
